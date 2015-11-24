@@ -1,6 +1,6 @@
 require 'spec_helper'
 #include Capybara::DSL
-RSpec.describe "Static Pages", type: :request do
+RSpec.describe "Static Pages", type: request do
   describe "Home page" do
     it "should have the content 'Sample App'" do
       visit '/static_pages/home'

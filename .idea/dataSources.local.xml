@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Rails Ror-Chapter3: development" uuid="9b8c69a3-2237-476e-b101-bf9a815786a3">
+      <first-sync>true</first-sync>
+    </data-source>
+    <data-source name="Rails Ror-Chapter3: test" uuid="7de595fd-409c-4a7e-a234-6c6fba8523d9">
+      <first-sync>true</first-sync>
+    </data-source>
+  </component>
+</project>
