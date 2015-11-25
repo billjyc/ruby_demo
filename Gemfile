@@ -5,6 +5,7 @@ source 'https://rubygems.org'
 gem 'rails', '4.2.4'
 gem 'bootstrap-sass', '~> 3.3'
 gem 'autoprefixer-rails'
+gem 'bcrypt-ruby', '~> 3.1'
 
 
 # See https://github.com/rails/execjs#readme for more supported runtimes
@@ -12,7 +13,7 @@ gem 'autoprefixer-rails'
 group :development do
   # Use sqlite3 as the database for Active Record
   gem 'sqlite3'
-
+  gem 'annotate', '~> 2.6'
   # Access an IRB console on exception pages or by using <%= console %> in views
   #gem 'web-console', '~> 2.0'
 end
